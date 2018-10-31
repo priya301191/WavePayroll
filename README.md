@@ -1,5 +1,6 @@
 # Wave Software Development Challenge
 
+-
 ******************************************************
 SOLUTION SPECIFIC
 
@@ -18,6 +19,7 @@ Method B:
 - Put sample.csv parallel to the project.
 - Compile and run.
 
+-
 
 2. A paragraph or two about what you are particularly proud of in your
    implementation, and why.
@@ -30,6 +32,7 @@ Being able to develop a full-fledged application with OOPS is a thing to really 
 ******************************************************
 
 
+-
 
 Applicants for the [Software
 developer](https://wave.bamboohr.co.uk/jobs/view.php?id=1) role at Wave must
