@@ -5,6 +5,10 @@
 SOLUTION SPECIFIC
 
 1. Instructions on how to build/run your application
+
+Database Setup on Mac :
+https://www.youtube.com/watch?v=CnjtbxUct7s
+
 Method A:
 - Create a C++ project in any IDE
 - Add all the files to project which are there in WavePayroll Directory
