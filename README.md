@@ -1,5 +1,36 @@
 # Wave Software Development Challenge
 
+******************************************************
+SOLUTION SPECIFIC
+
+1. Instructions on how to build/run your application
+Method A:
+- Create a C++ project in any IDE
+- Add all the files to project which are there in WavePayroll Directory
+- Also, copy sample.csv parallel to WavePayroll Directory
+- Compile. Program should work.
+
+OR
+
+Method B:
+- Simply open the project in Xcode.
+- It will automatically create the project and add relevant files
+- Put sample.csv parallel to the project.
+- Compile and run.
+
+
+2. A paragraph or two about what you are particularly proud of in your
+   implementation, and why.
+- To begin with, it was really a good exercise which requires OOPS and C++ concepts.
+For me, the interesting part was playing with database. On a professional level, I haven't had much exposure to DB and
+this was a great test for me to learn those concepts and actually apply them.
+I am proud of being able to setup db with C++, initiate transactions and finally get the final results.
+Though there are some open items which are more of improvement perspective but I think I am able to achieve the required functionality.
+Being able to develop a full-fledged application with OOPS is a thing to really look forward to.
+******************************************************
+
+
+
 Applicants for the [Software
 developer](https://wave.bamboohr.co.uk/jobs/view.php?id=1) role at Wave must
 complete the following challenge, and submit a solution prior to the onsite
